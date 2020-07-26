@@ -3,7 +3,7 @@
 The dataset is a subset of the Tensorflow speech commands dataset that includes other sound recordings besides the digits 0–9.
 
 The project has three approaches to classifying the recordings:
-1. Logistic Regression using five extracted features - about 76.19% accuracy.
+1. Logistic Regression using five extracted features - 76.19% accuracy.
 2. Logistic Regression using only MFCCs - 95.56% accuracy.
 3. CNN using Mel spectrogram - 95.81% accuracy.
 
