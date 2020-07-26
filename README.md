@@ -5,7 +5,7 @@ The dataset is a subset of the Tensorflow speech commands dataset that includes 
 The project has three approaches to classifying the recordings:
 1. Logistic Regression using five extracted features - about 76.19% accuracy.
 2. Logistic Regression using only MFCCs - 95.56% accuracy.
-3. CNN using Mel spectrogram - 96% accuracy.
+3. CNN using Mel spectrogram - 95.81% accuracy.
 
 There are five .ipynb files:
 * Feature extraction - The necessary CSV files and features used by the three approaches are extracted.
