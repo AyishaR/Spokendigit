@@ -13,3 +13,5 @@ There are five .ipynb files:
 * Spokendigit-Five features - Implementation of logistic regression using five extracted features.
 * Spokendigit-MFFCs - Implementation of logistic regression using MFCCs.
 * Spokendigit-CNNs - Implementation of CNN using Mel spectrogram.
+
+Medium article - [Torch: Spoken digits recognition from features to model.](https://medium.com/@ayisha.d/torch-spoken-digits-recognition-from-features-to-model-357209cd49d1?source=friends_link&sk=5bc534144c970d58c9dcf7fc42c1c70b)
